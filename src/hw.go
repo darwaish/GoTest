@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World from ", runtime.GOOS)
+	fmt.Println("Hello World from: ", runtime.GOOS)
 }
